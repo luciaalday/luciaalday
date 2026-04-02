@@ -27,19 +27,6 @@ I'm a CS student at the University of Arizona with a passion for creative techno
 
 ---
 
-### featured projects
-
-| project | description | tech |
-|--------|-------------|------|
-| [Cosmos-project](https://github.com/luciaalday/Cosmos-project) | Wavelength analysis of Halley's & McNaught's comet elemental composition | Jupyter, Python |
-| [UltimateTicTacToe](https://github.com/luciaalday/UltimateTicTacToe) | Nested strategy game | Python |
-| [Skeleton-Interactive-Game](https://github.com/luciaalday/Skeleton-Interactive-Game) | Interactive darkride game experience | Python |
-| [ECE175 — Game of Trains](https://github.com/luciaalday/ECE175-LuciaAlday-IvonneLopez) | Final project for ECE 175 Spring 2024 | C |
-| [ITC25_AI_Model](https://github.com/luciaalday/ITC25_AI_Model) | AI model supporting ITC 2025 research | Python |
-| Task Manager App | TkInter app with nested assignments & multi-attribute sorting | Python |
-
----
-
 ### experience highlights
 
 **Graphic & Web Designer** · UA College of Nursing *(June 2024 – Present)*
