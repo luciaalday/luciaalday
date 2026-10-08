@@ -1,6 +1,8 @@
 # Lucia Alday
 
-Computer Science B.S. · University of Arizona · May 2026 · Tucson, AZ
+### Software Effector Engineer I · Raytheon Technologies · Tucson, AZ
+
+B.S. Computer Science · University of Arizona · May 2026
 
 [luciaalday.com](https://luciaalday.com) · [LinkedIn](https://linkedin.com/in/lucia-alday) · luciaalday03@gmail.com
 
@@ -12,7 +14,7 @@ I'm a software engineer with a multidisciplinary background spanning software de
 
 My professional experience includes software engineering at Raytheon Technologies, web development at WebMO and the University of Arizona, and full-stack application development for the Town of Marana. I have also contributed to research presented at the International Telemetry Conference, exploring topics including machine learning, animatronic attention, user interfaces, interactive theme park attractions, telemetry, and real-time system optimization.
 
-- 💻 **Software Effector Engineer I** at Raytheon Technologies
+- 💻 **Software Effector Engineer I** at Raytheon
 - 🌐 **Website Developer** at WebMO *(August–October 2026)*
 - 🔬 **Three-time ITC co-author**, with research spanning machine learning, animatronics, interactive interfaces, and telemetry-driven optimization
 - 🎢 Commended at the **TMU Thrill Design Invitational 2024** hosted by Universal Studios Orlando
