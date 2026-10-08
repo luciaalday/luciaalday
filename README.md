@@ -1,6 +1,6 @@
 # Lucia Alday
 
-### Software Effector Engineer I · Raytheon Technologies · Tucson, AZ
+### Software Effector Engineer I · Raytheon · Tucson, AZ
 
 B.S. Computer Science · University of Arizona · May 2026
 
